@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Stelina 👋
 
-<!--
-**snaka99/snaka99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning | Deep Learning | Applied AI**
 
-Here are some ideas to get you started:
+I'm a researcher and engineer with a background in Mineral Resources Engineering and a focus on developing machine learning solutions for complex real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans graph neural networks, time-series forecasting, medical image segmentation, and data engineering.
+
+### 🔬 Areas of Interest
+- Deep Learning & Neural Networks
+- Computer Vision & Medical Image Segmentation
+- Graph Neural Networks & Data Imputation
+- Time-Series Forecasting
+- Scientific Machine Learning
+
+### 🛠️ Technical Skills
+**Languages:** Python, MATLAB
+
+**ML / Deep Learning:** PyTorch, TensorFlow, Scikit-learn
+
+**Data & Tools:** Pandas, NumPy, Git, GitHub
+
+### 🚀 Featured Project
+
+**[3D Vision Transformer for Whole-Heart Segmentation](https://github.com/snaka99/3D-ViT-whole-heart-segmentation)**
+
+A PyTorch-based research implementation for 3D medical image segmentation using CT and MRI data from the MM-WHS challenge.
+
+Includes model training, cross-validation, inference, evaluation and reproducible configuration files.
+
+### 📫 Connect
+- [GitHub](https://github.com/snaka99)
+- LinkedIn: *Add profile URL*
