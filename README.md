@@ -31,4 +31,4 @@ Graph Neural Networks · Computer Vision · Time-Series Forecasting · Scientifi
 
 ### 📫 Connect
 - [GitHub](https://github.com/snaka99)
-- LinkedIn: *[Add profile URL](https://www.linkedin.com/in/stelinanaka/)*
+- LinkedIn: *[stelina](https://www.linkedin.com/in/stelinanaka/)*
