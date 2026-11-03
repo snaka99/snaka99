@@ -14,20 +14,21 @@ My work spans graph neural networks, time-series forecasting, medical image segm
 - Scientific Machine Learning
 
 ### 🛠️ Technical Skills
-**Languages:** Python, MATLAB
 
-**ML / Deep Learning:** PyTorch, TensorFlow, Scikit-learn
+Programming: Python, MATLAB
 
-**Data & Tools:** Pandas, NumPy, Git, GitHub
+Deep Learning: PyTorch, TensorFlow, PyTorch Geometric
 
-### 🚀 Featured Project
+Machine Learning: Scikit-learn
 
-**[3D Vision Transformer for Whole-Heart Segmentation](https://github.com/snaka99/3D-ViT-whole-heart-segmentation)**
+Data Analysis: Pandas, NumPy
 
-A PyTorch-based research implementation for 3D medical image segmentation using CT and MRI data from the MM-WHS challenge.
+Tools: Git, GitHub
 
-Includes model training, cross-validation, inference, evaluation and reproducible configuration files.
+🔬 Research Interests
+
+Graph Neural Networks · Computer Vision · Time-Series Forecasting · Scientific Machine Learning
 
 ### 📫 Connect
 - [GitHub](https://github.com/snaka99)
-- LinkedIn: *Add profile URL*
+- LinkedIn: *[Add profile URL](https://www.linkedin.com/in/stelinanaka/)*
